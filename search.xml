@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>记录下令自己疯狂或喜悦的时刻</title>
-    <url>/2023/10/29/Second-blog/</url>
-    <content><![CDATA[<h1 id="第一次线代单元考70分"><a href="#第一次线代单元考70分" class="headerlink" title="第一次线代单元考70分"></a>第一次线代单元考70分</h1><blockquote>
-<p>smjb</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>大事记</category>
-      </categories>
-  </entry>
-  <entry>
     <title>搭建一个简单的博客（hexo AND github）</title>
     <url>/2023/10/27/First%20blog/</url>
     <content><![CDATA[<p>Welcome to my blog!<br>相遇即是缘分！<br>通过这篇博客你将学习到如何简单地搭建博客</p>
@@ -80,6 +69,17 @@
       <tags>
         <tag>blog</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>记录下令自己疯狂或喜悦的时刻</title>
+    <url>/2023/10/29/Second-blog/</url>
+    <content><![CDATA[<h1 id="第一次线代单元考70分"><a href="#第一次线代单元考70分" class="headerlink" title="第一次线代单元考70分"></a>第一次线代单元考70分</h1><blockquote>
+<p>smjb</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>大事记</category>
+      </categories>
   </entry>
   <entry>
     <title>关于个人</title>
