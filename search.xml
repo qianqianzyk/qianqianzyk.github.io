@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>First Blog(how to build your blog through hexo and github)</title>
+    <title>搭建一个简单地博客（hexo AND github）</title>
     <url>/2023/10/27/First%20blog/</url>
     <content><![CDATA[<p>Welcome to my blog!<br>相遇即是缘分！<br>通过这篇博客你将学习到如何简单地搭建博客</p>
 <h2 id="检查自己的git和Node-js有没有装好，有没有github账户"><a href="#检查自己的git和Node-js有没有装好，有没有github账户" class="headerlink" title="检查自己的git和Node.js有没有装好，有没有github账户"></a>检查自己的git和Node.js有没有装好，有没有github账户</h2><p><a href="https://www.bilibili.com/video/BV1MU4y1Y7h5/?spm_id_from=333.337.search-card.all.click&vd_source=99e5bc4047e1606fcbdbe4f30ad3bdc3">git安装及使用</a><br><a href="https://blog.csdn.net/WHF__/article/details/129362462">Node.js安装</a></p>
@@ -149,6 +149,9 @@
 </blockquote>
 <blockquote>
 <p><a href="https://www.cnblogs.com/chloris">鸟姐的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://zjuter.github.io/">过路人地博客</a></p>
 </blockquote>
 <p class='item-img' data-src='https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0'><img src="https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0" alt="image"></p>
 <hr>
