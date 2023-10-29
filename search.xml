@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>啊哈哈啊哈哈哈哈哈啊啊嘻嘻嘻嘻</title>
-    <url>/2023/10/29/Second-blog/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>First Blog(how to build your blog through hexo and github)</title>
     <url>/2023/10/27/First%20blog/</url>
     <content><![CDATA[<p>Welcome to my blog!<br>相遇即是缘分！<br>通过这篇博客你将学习到如何简单地搭建博客</p>
@@ -76,42 +71,15 @@
       </tags>
   </entry>
   <entry>
-    <title>人生苦短，有缘到此的都是朋友。</title>
-    <url>/contact/index.html</url>
-    <content><![CDATA[<blockquote>
-<p><a href="https://lonesome.cn/">Xiom部长的博客</a></p>
+    <title>记录下令自己疯狂或喜悦的时刻</title>
+    <url>/2023/10/29/Second-blog/</url>
+    <content><![CDATA[<h1 id="第一次线代单元考70分"><a href="#第一次线代单元考70分" class="headerlink" title="第一次线代单元考70分"></a>第一次线代单元考70分</h1><blockquote>
+<p>smjb</p>
 </blockquote>
-<blockquote>
-<p><a href="https://blog.bluebird.icu/">青鸟部长的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="https://zhul.in/">冰冰部长的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="https://blog.cnpatrickstar.com/">派大星会长的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="https://salt114514.github.io/">钠盐的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="https://zerohzzzz.github.io/">黑白的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="herveyb3b4.github.io">hv的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="https://blog.f1nley.xyz/">喵喵的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="http://blog.tiancy.top/">Tiancy部长的博客</a></p>
-</blockquote>
-<blockquote>
-<p><a href="https://www.cnblogs.com/chloris">鸟姐的博客</a></p>
-</blockquote>
-<p class='item-img' data-src='https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0'><img src="https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0" alt="image"></p>
-<hr>
-<p>朋有り、遠方より来たる、亦た楽しいからずや。</p>
 ]]></content>
+      <categories>
+        <category>大事记</category>
+      </categories>
   </entry>
   <entry>
     <title>关于个人</title>
@@ -147,6 +115,44 @@
 </blockquote>
 <hr>
 <p>By qianqianzyk</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>人生苦短，有缘到此的都是朋友。</title>
+    <url>/contact/index.html</url>
+    <content><![CDATA[<blockquote>
+<p><a href="https://lonesome.cn/">Xiom部长的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://blog.bluebird.icu/">青鸟部长的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://zhul.in/">冰冰部长的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://blog.cnpatrickstar.com/">派大星会长的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://salt114514.github.io/">钠盐的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://zerohzzzz.github.io/">黑白的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="herveyb3b4.github.io">hv的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://blog.f1nley.xyz/">喵喵的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="http://blog.tiancy.top/">Tiancy部长的博客</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://www.cnblogs.com/chloris">鸟姐的博客</a></p>
+</blockquote>
+<p class='item-img' data-src='https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0'><img src="https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0" alt="image"></p>
+<hr>
+<p>朋有り、遠方より来たる、亦た楽しいからずや。</p>
 ]]></content>
   </entry>
 </search>
