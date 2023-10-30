@@ -88,6 +88,42 @@
       </tags>
   </entry>
   <entry>
+    <title>关于个人</title>
+    <url>/about/index.html</url>
+    <content><![CDATA[<blockquote>
+<p class='item-img' data-src='https://img-baofun.zhhainiao.com/fs/17c5faa9ae62f4690a6556c70fab8d8a.jpg'><img src="https://img-baofun.zhhainiao.com/fs/17c5faa9ae62f4690a6556c70fab8d8a.jpg" alt="image"></p>
+</blockquote>
+<blockquote>
+<p>Nick_name:</p>
+<blockquote>
+<p>浅浅&amp;勿念</p>
+</blockquote>
+<p>身份：</p>
+<blockquote>
+<p>大学生（真滴累，不过也很快乐）<br>闲暇时间是一位农p<br>想上岸，正在不断努力(保研or考研)</p>
+</blockquote>
+<p>技术栈：</p>
+<blockquote>
+<p>后端开发</p>
+</blockquote>
+<p>语言：</p>
+<blockquote>
+<p>go语言（初步掌握）<br>redis（还没入门）<br>c++<br>python(初识)</p>
+</blockquote>
+<p>个性签名：</p>
+<blockquote>
+<p>内心丰盈者独行也如众</p>
+</blockquote>
+<p>爱好：</p>
+<blockquote>
+<p>足球<br>下棋<br>看电影</p>
+</blockquote>
+</blockquote>
+<hr>
+<p>By qianqianzyk</p>
+]]></content>
+  </entry>
+  <entry>
     <title>人生苦短，有缘到此的都是朋友。</title>
     <url>/contact/index.html</url>
     <content><![CDATA[<blockquote>
@@ -126,42 +162,6 @@
 <p class='item-img' data-src='https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0'><img src="https://ts1.cn.mm.bing.net/th/id/R-C.e79036ab9e7ef09bd5951536125c60ac?rik=qzIaIiYX81/OAA&riu=http://5b0988e595225.cdn.sohucs.com/images/20181103/feaa7d14883047fb81bbaa16f681f583.jpeg&ehk=hywgeurG/R6NTPM5A6bkA4YGllkcUFzqDTWm/xfDeDU=&risl=&pid=ImgRaw&r=0" alt="image"></p>
 <hr>
 <p>朋有り、遠方より来たる、亦た楽しいからずや。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>关于个人</title>
-    <url>/about/index.html</url>
-    <content><![CDATA[<blockquote>
-<p class='item-img' data-src='https://img-baofun.zhhainiao.com/fs/17c5faa9ae62f4690a6556c70fab8d8a.jpg'><img src="https://img-baofun.zhhainiao.com/fs/17c5faa9ae62f4690a6556c70fab8d8a.jpg" alt="image"></p>
-</blockquote>
-<blockquote>
-<p>Nick_name:</p>
-<blockquote>
-<p>浅浅&amp;勿念</p>
-</blockquote>
-<p>身份：</p>
-<blockquote>
-<p>大学生（真滴累，不过也很快乐）<br>闲暇时间是一位农p<br>想上岸，正在不断努力(保研or考研)</p>
-</blockquote>
-<p>技术栈：</p>
-<blockquote>
-<p>后端开发</p>
-</blockquote>
-<p>语言：</p>
-<blockquote>
-<p>go语言（初步掌握）<br>redis（还没入门）<br>c++<br>python(初识)</p>
-</blockquote>
-<p>个性签名：</p>
-<blockquote>
-<p>内心丰盈者独行也如众</p>
-</blockquote>
-<p>爱好：</p>
-<blockquote>
-<p>足球<br>下棋<br>看电影</p>
-</blockquote>
-</blockquote>
-<hr>
-<p>By qianqianzyk</p>
 ]]></content>
   </entry>
 </search>
